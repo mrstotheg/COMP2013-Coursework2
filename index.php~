@@ -70,7 +70,7 @@
         echo "<h2>People who are registered:</h2>";
         echo "<table>";
         echo "<tr><th>Company Name</th>";
-        echo "<tr><th>Name</th>";
+        echo "<th>Name</th>";
         echo "<th>Email</th>";
         echo "<th>Date</th></tr>";
         foreach($registrants as $registrant) {
